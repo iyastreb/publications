@@ -1,4 +1,5 @@
-# publications
+# Publications
+
 1. Yastrebov I., Sliwinski W., Baggiolini V., Bau J.-C., Deghaye S., Gonzalez Cobas J. D., Nguyen Xuan J., Sigerud K. Tools and Rules to Encourage Quality for C/C++ Software. // 14th International Conference on Accelerator and Large Experimental Physics Control Systems (ICALEPCS) 2013 Proceedings. - San Francisco, USA, 2013. (http://www.icalepcs2013.org/programs/abstract_details.php?id=MOPPC087)
 2. Yastrebov I., Sliwinski W., Dworak A. Middleware Proxy: A Request-Driven Messaging Broker for High Volume Data Distribution. // 14th International Conference on Accelerator and Large Experimental Physics Control Systems (ICALEPCS) 2013 Proceedings. - San Francisco, USA, 2013. (http://www.icalepcs2013.org/programs/abstract_details.php?id=TUCOCB02)
 3. Yastrebov I., Yastrebova N. Securing Controls Middleware of the Large Hadron Collider. // Computing and Informatics. - Slovakia, 2012. - V.31, P.1001-1022. (http://cai.type.sk/files/11042/2517-1647-7867/11042-f1.pdf)
